@@ -1,0 +1,32 @@
+{
+  "name": "file-metadata",
+  "version": "1.0.0",
+  "description": "Quick app that returns file size from uploaded file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderEllis/file-metadata.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "file",
+    "size"
+  ],
+  "engines": {
+    "node": "4.2.3"
+  },
+  "author": "Alex Ellis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexanderEllis/file-metadata/issues"
+  },
+  "homepage": "https://github.com/AlexanderEllis/file-metadata#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "node": "0.0.0"
+  }
+}
