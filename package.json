@@ -27,6 +27,7 @@
   "homepage": "https://github.com/AlexanderEllis/file-metadata#readme",
   "dependencies": {
     "express": "^4.13.4",
+    "multer": "^1.1.0",
     "node": "0.0.0"
   }
 }
